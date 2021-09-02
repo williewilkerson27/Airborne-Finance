@@ -100,3 +100,24 @@ export const ArrowRight = styled(MdKeyboardArrowRight)`
     margin-left: 8px;
     font-size: 20px;
 `
+
+export const QouteContainer = styled.div`
+    z-index: 20;
+    margin-top: 650px;
+    max-width: 400px;
+    max-height: 4   00px;
+    
+    
+`
+
+export const QuoteText = styled.p`
+    font-size: 14px;
+    color: #fff;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
+
+`
+
+export const QuoteAuthor = styled.p`
+    font-size: 8px;
+    color: #fff;
+`
